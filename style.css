@@ -1,0 +1,28 @@
+#h1{
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+div{
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    max-width: 1600px;
+    border-top: 5px solid;
+    padding: 20px;
+
+}
+a{
+    border-bottom: 2px solid;
+    color: green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+nav ol li{
+    display: inline-block;
+    list-style: none;
+     padding: 14px 25px;
+}
+nav ol li a {
+    color: rgb(255, 0, 128);
+}
